@@ -1,5 +1,5 @@
 /**
- * Authors: Abigail Haworth and 
+ * Authors: Abigail Haworth and Prism Tutaj
  * Date: 2018/08/23
  *
  * A simple hello world program in C
@@ -11,6 +11,6 @@
 int main(int argc, char **argv) {
 
   printf("Abigail Haworth, Biological Systems Engineering\n");
-
+  fprintf(stdout, "Prism Tutaj, Computer Science\n");
   return 0;
 }
